@@ -5,7 +5,3 @@ init
 
 ADD 2
 
-ADD2
-
-  werfwefwef1
-werwqerwqer2
